@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0046/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 普賢菩薩行願讚
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T10/T10n0297.xml
+    old_id: T10n0297
+hash: sha256:51058aeb8c3761fce66dc745476df06dadaea9bb360fe3a0808f72fcc2cad527

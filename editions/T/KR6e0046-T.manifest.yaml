@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6e0046/T/v1
+canonical_location: https://kanripo.org/bkk/KR6e0046/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 普賢菩薩行願讚
+  identifiers:
+    krp: KR6e0046
+    cbeta: T10n0297
+    cbeta_old_id: T10n0297
+    authorityid: CA0002502
+    json_key: T0297
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T10/T10n0297.xml
+    old_id: T10n0297
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0046_000-T.yaml, hash: 'sha256:51058aeb8c3761fce66dc745476df06dadaea9bb360fe3a0808f72fcc2cad527'}
+  - {seq: 1, filename: KR6e0046_001-T.yaml, hash: 'sha256:40f46ea034620d8558be505a4fafc5a18a897d1965e3936aa4d14e8262efae03'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6e0046_000-T.markers.yaml, hash: 'sha256:4ba40f28271d664d9ec572e3046447ac19be3b902343e8269338c501831f9775'}
+  - {seq: 1, role: markers, filename: assets/KR6e0046_001-T.markers.yaml, hash: 'sha256:775700f1d802740dcba7540f5156f09ece3a66c518941f889f86d50f6e45c7db'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6e0046_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2104
+  label: 普賢菩薩行願讚
+  type: juan
+  level: 1
+hash: sha256:e1a6620ac091ad16832dad560d077db9f5be1dafceeb8d645807bc69d2cbfe59
