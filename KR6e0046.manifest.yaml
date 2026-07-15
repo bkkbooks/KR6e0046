@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6e0046/v1
 canonical_location: https://kanripo.org/bkk/KR6e0046/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 普賢菩薩行願讚
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6e0046_000.yaml, hash: 'sha256:51058aeb8c3761fce66dc745476df06dadaea9bb360fe3a0808f72fcc2cad527'}
-  - {seq: 1, filename: KR6e0046_001.yaml, hash: 'sha256:40f46ea034620d8558be505a4fafc5a18a897d1965e3936aa4d14e8262efae03'}
+  - {seq: 1, filename: KR6e0046_001.yaml, hash: 'sha256:a9874770acbb550d4e856433674785178446131bb3aca0aba7839400086df127'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6e0046_000.markers.yaml, hash: 'sha256:f2e037b23c2969b0dd26a1c644b0850c8aeeff81c9f9295ddc09f511c8dbc53b'}
-  - {seq: 1, role: markers, filename: assets/KR6e0046_001.markers.yaml, hash: 'sha256:a77d8d0ecf4f392c80cce4709acd3c194a33677bac41dc7e714b72c0892e9fd7'}
+  - {seq: 1, role: markers, filename: assets/KR6e0046_001.markers.yaml, hash: 'sha256:37f75d0e3ca010c958bff2d65af96db791f36d3a104ff9bd3ba4031ef92aaa44'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 普賢菩薩行願讚
   type: juan
   level: 1
-hash: sha256:199dee3213c94ddaa3738d904fea373338fd55bb586289301e1d43233600b5de
+hash: sha256:573f449adbce47625f7f2b01d2e6efa64274b9a0aa440fdb8d6c045e88055b37
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
