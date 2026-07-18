@@ -36,7 +36,7 @@ assets:
   - {seq: 0, filename: KR6e0046_000.yaml, hash: 'sha256:51058aeb8c3761fce66dc745476df06dadaea9bb360fe3a0808f72fcc2cad527'}
   - {seq: 1, filename: KR6e0046_001.yaml, hash: 'sha256:a9874770acbb550d4e856433674785178446131bb3aca0aba7839400086df127'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0046_000.markers.yaml, hash: 'sha256:f2e037b23c2969b0dd26a1c644b0850c8aeeff81c9f9295ddc09f511c8dbc53b'}
+  - {seq: 0, role: markers, filename: assets/KR6e0046_000.markers.yaml, hash: 'sha256:9d443c94b2f88d3b4401d7315d48b57b3433ac070cad660ccd480edb9c6f6618'}
   - {seq: 1, role: markers, filename: assets/KR6e0046_001.markers.yaml, hash: 'sha256:37f75d0e3ca010c958bff2d65af96db791f36d3a104ff9bd3ba4031ef92aaa44'}
 table_of_contents:
 - ref:
@@ -49,7 +49,7 @@ table_of_contents:
   label: 普賢菩薩行願讚
   type: juan
   level: 1
-hash: sha256:573f449adbce47625f7f2b01d2e6efa64274b9a0aa440fdb8d6c045e88055b37
+hash: sha256:c889d5367c70072cc71972885609ab5095a6eaf5467ba95b4608ee7f53e566f5
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
